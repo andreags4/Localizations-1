@@ -1,52 +1,52 @@
-"OPTIONS" = "Options";
+"OPTIONS" = "Nastavenia";
 
-"APPLY_SETTINGS" = "Apply Settings";
-"APPLY_FOOTER" = "Most options can be applied on the fly, but some may need Cydia to be restarted to take effect.";
+"APPLY_SETTINGS" = "Použiť nastavenia";
+"APPLY_FOOTER" = "Väčšina nastavení môže byť použitá za behu Cydie, ale niektoré vyžadujú reštart Cydie nato, aby sa prejavili.";
 
-"DEFAULT_PAGE" = "Default Page";
-"HOME" = "Home";
-"SOURCES" = "Sources";
-"CHANGES" = "Changes";
-"INSTALLED" = "Installed";
-"SEARCH" = "Search";
-"DEFAULT_PAGE_FOOTER" = "Set the default page that Cydia opens to.";
+"DEFAULT_PAGE" = "Predvolená záložka";
+"HOME" = "Cydia";
+"SOURCES" = "Zdroje";
+"CHANGES" = "Zmeny";
+"INSTALLED" = "Nainštalované";
+"SEARCH" = "Vyhľadávanie";
+"DEFAULT_PAGE_FOOTER" = "Nastavenie záložky, na ktorú sa Cydia otvorí pri štarte.";
 
-"REFRESH_HEADER" = "Refresh Settings";
-"PULL_TO_REFRESH" = "Pull to Refresh";
-"AUTO_REFRESH" = "Disable Auto Refresh";
-"TIMEOUT" = "Timeout";
-"SECONDS" = "Seconds:";
-"REFRESH_FOOTER" = "Force Cydia to only spend a specified number of seconds trying to refresh each source.";
+"REFRESH_HEADER" = "Nastavenia aktualizácie dát";
+"PULL_TO_REFRESH" = "Potiahnutie pre aktualizáciu";
+"AUTO_REFRESH" = "Zakázať automatickú aktualizáciu";
+"TIMEOUT" = "Časový limit";
+"SECONDS" = "Sekúnd:";
+"REFRESH_FOOTER" = "Toto nastavenie prinúti Cydiu, aby sa snažila aktualizovať každý zdroj, len určitý počet sekúnd.";
 
-"BATCH_ADD" = "Batch Add";
-"BATCH_ADD_FOOTER" = "Add multiple repos at once by having them in your clipboard.";
+"BATCH_ADD" = "Pridať skupinu zdrojov";
+"BATCH_ADD_FOOTER" = "Funkcia umožňuje pridať viacero zdrojov, ktoré sú práve skopírované.";
 
-"EXPORT" = "Export";
-"EXPORT_FOOTER" = "Adds ability to export a list of installed tweaks and sources from the Installed tab.";
+"EXPORT" = "Exportovať";
+"EXPORT_FOOTER" = "Možnosť exportovať list nainštalovaných doplnkov alebo zdrojov zo záložky Nainštalované.";
 
-"CUSTOMIZE_UI_HEADER" = "Customize UI";
-"GLOBAL_TINT" = "Global Tint";
-"GLOBAL_TINT_COLOR" = "Global Tint Color:";
-"NAVBAR_COLOR" = "Navbar Color:";
-"NAVBAR_TITLE_COLOR" = "Navbar Title Color:";
-"TABBAR_COLOR" = "Tab Bar Color:";
-"TABBAR_SELECTED_COLOR" = "Tab Bar Selected Color:";
-"LIGHT_STATUS_BAR" = "Light Status Bar";
-"DARK_KEYBOARD" = "Dark Keyboard";
-"REMOVE_HOMEPAGE_ADS" = "Remove Homepage Ads";
+"CUSTOMIZE_UI_HEADER" = "Prispôsobenie rozhrania";
+"GLOBAL_TINT" = "Globálne zafarbenie";
+"GLOBAL_TINT_COLOR" = "Globálna farba:";
+"NAVBAR_COLOR" = "Navigačná lišta:";
+"NAVBAR_TITLE_COLOR" = "Ovládacie prvky lišty:";
+"TABBAR_COLOR" = "Lišta záložiek:";
+"TABBAR_SELECTED_COLOR" = "Farba vybranej:";
+"LIGHT_STATUS_BAR" = "Svetlý stavový riadok";
+"DARK_KEYBOARD" = "Tmavá klávesnica";
+"REMOVE_HOMEPAGE_ADS" = "Odstrániť reklamu z Domovskej záložky";
 
-"SEARCH_TAB_HEADER" = "Search Tab";
-"CANCEL_BUTTON" = "Cancel Button";
-"SWIPE_TO_DISMISS" = "Swipe to Dismiss";
-"SEARCH_TAB_FOOTER" = "Swipe down to dismiss the keyboard.";
+"SEARCH_TAB_HEADER" = "Vyhľadávanie";
+"CANCEL_BUTTON" = "Tlačítko zrušiť";
+"SWIPE_TO_DISMISS" = "Schovať klávesnicu";
+"SEARCH_TAB_FOOTER" = "Ťahom nadol schováte klávesnicu.";
 
-"INSTALL_SCREEN_HEADER" = "Install Screen";
-"REMOVE_BUTTON_BORDER" = "Remove Button Border";
-"BUTTON_BORDER_COLOR" = "Button Border Color:";
-"BACKGROUND_COLOR" = "Background Color:";
+"INSTALL_SCREEN_HEADER" = "Inštalačná obrazovka";
+"REMOVE_BUTTON_BORDER" = "Odstrániť okraj tlačítka";
+"BUTTON_BORDER_COLOR" = "Farba okraju tlačítka:";
+"BACKGROUND_COLOR" = "Farba pozadia:";
 
-"AUTOFINISH" = "Auto Finish";
-"VIBRATE" = "Vibrate";
-"AUTOFINISH_FOOTER" = "Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.";
+"AUTOFINISH" = "Automatické dokončenie";
+"VIBRATE" = "Zavibrovať";
+"AUTOFINISH_FOOTER" = "Automaticky respringovať, reštartovať alebo návrat do Cydie, po nastavenom čase.";
 
-"SAVE" = "Save";
+"SAVE" = "Uložiť";

@@ -15,8 +15,6 @@ Thank you very much!
 
 **Completed**
 
-* None
-
 
 **Incomplete**
 
@@ -35,7 +33,8 @@ Thank you very much!
 * nl - /u/Q-Quan
 * pl - lyratriescoding
 * ru - 25element
+* sk - Boris Nanista
 * tr - /u/omerwwazap
 * zh-Hans - /u/darkj2k
-* zh-HK - /u/darkj2k & /u/DurianNinja
 * zh-Hant - /u/darkj2k & /u/DurianNinja
+* zh-HK - /u/darkj2k & /u/DurianNinja

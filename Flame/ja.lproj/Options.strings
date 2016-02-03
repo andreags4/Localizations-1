@@ -18,11 +18,15 @@
 "SECONDS" = "Seconds:";
 "REFRESH_FOOTER" = "Force Cydia to only spend a specified number of seconds trying to refresh each source.";
 
+"SOURCE_SETTINGS" = "Source Settings";
+"HOLD_TO_COPY" = "Hold to Copy";
 "BATCH_ADD" = "Batch Add";
-"BATCH_ADD_FOOTER" = "Add multiple repos at once by having them in your clipboard.";
+"SOURCE_SETTINGS_FOOTER" = "Add multiple sources at once by having them in your clipboard.";
 
+"SHARE_AND_EXPORT" = "Share and Export";
+"SHARE_PACKAGES" = "Share Packages";
 "EXPORT" = "Export";
-"EXPORT_FOOTER" = "Adds ability to export a list of installed tweaks and sources from the Installed tab.";
+"SHARE_AND_EXPORT_FOOTER" = "Adds ability to export a list of installed tweaks and sources from the Installed tab.";
 
 "CUSTOMIZE_UI_HEADER" = "Customize UI";
 "GLOBAL_TINT" = "Global Tint";
@@ -48,5 +52,9 @@
 "AUTOFINISH" = "Auto Finish";
 "VIBRATE" = "Vibrate";
 "AUTOFINISH_FOOTER" = "Automatically resprings, reboots, or returns to Cydia after a set amount of seconds.";
+
+"UPDATES" = "Updates";
+"CHECK_FOR_UPDATES" = "Automatically Check for Updates";
+"CHECK_NOW" = "Check Now";
 
 "SAVE" = "Save";
