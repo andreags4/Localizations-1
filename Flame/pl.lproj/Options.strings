@@ -21,8 +21,8 @@
 "BATCH_ADD" = "Dodawanie Partią";
 "BATCH_ADD_FOOTER" = "Dodaj więcej repozytoriów na raz przez posiadanie ich adresów w schowku.";
 
-"EXPORT" = "Export";
-"EXPORT_FOOTER" = "Adds ability to export a list of installed tweaks and sources from the Installed tab.";
+"EXPORT" = "Eksport";
+"EXPORT_FOOTER" = "Dodaje możliwość eksportowania listy zainstalowanych modyfikacji i źródeł z zakładki Zainstalowane.";
 
 "CUSTOMIZE_UI_HEADER" = "Dostosuj Interfejs";
 "GLOBAL_TINT" = "Odcień Programu";
@@ -31,7 +31,7 @@
 "NAVBAR_TITLE_COLOR" = "Kolor Tytułu Paska Nawigacji:";
 "TABBAR_COLOR" = "Kolor Karty:";
 "TABBAR_SELECTED_COLOR" = "Kolor Wybranej Karty:";
-"LIGHT_STATUS_BAR" = "Light Status Bar";
+"LIGHT_STATUS_BAR" = "Jasny Pasek Stanu";
 "DARK_KEYBOARD" = "Ciemna Klawiatura";
 "REMOVE_HOMEPAGE_ADS" = "Usuń Reklamy z Karty Cydia";
 
