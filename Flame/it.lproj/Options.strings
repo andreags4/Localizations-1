@@ -18,9 +18,13 @@
 "SECONDS" = "Secondi:";
 "REFRESH_FOOTER" = "Costringe Cydia a spendere un certo numero di secondi per l'aggiornamento di ogni sorgente.";
 
+"SOURCE_SETTINGS" = "Impostazioni Sorgenti";
+"HOLD_TO_COPY" = "Tieni premuto per copiare";
 "BATCH_ADD" = "Aggiunta Di Gruppo";
 "BATCH_ADD_FOOTER" = "Aggiunge più sorgenti contemporaneamente in base a quelle copiate nei tuoi appunti.";
 
+"SHARE_AND_EXPORT" = "Condividi ed Esporta";
+"SHARE_PACKAGES" = "Condividi Pacchetti";
 "EXPORT" = "Export";
 "EXPORT_FOOTER" = "Aggiunge una funziona che esporta una lista di tweak e sorgenti installate nella scheda Installato.";
 
@@ -48,5 +52,9 @@
 "AUTOFINISH" = "Fine Automatica";
 "VIBRATE" = "Vibra";
 "AUTOFINISH_FOOTER" = "Applica il respring, reboot, o ritorna a Cydia automaticamente dopo un numero impostato di secondi.";
+
+"UPDATES" = "Aggiornamenti";
+"CHECK_FOR_UPDATES" = "Controlla Automaticamente per Nuovi Aggiornamenti";
+"CHECK_NOW" = "Controlla Ora";
 
 "SAVE" = "Salva";
